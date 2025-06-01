@@ -40,7 +40,5 @@ The bot currently uses a predefined dataset with information about:
 
 Each cryptocurrency has data about its price trend, market cap, energy use, and sustainability score.
 
-## Disclaimer
 
-This chatbot is for educational purposes only. Cryptocurrency investments are risky - always do your own research before investing.
 
