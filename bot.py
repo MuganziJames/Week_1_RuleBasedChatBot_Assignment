@@ -1,4 +1,4 @@
-class CryptoAdvisor:
+class Crypto:
     def __init__(self, name="CryptoBuddy"):
         self.name = name
         self.crypto_db = {
@@ -110,7 +110,7 @@ class CryptoAdvisor:
             return "I'm not sure how to answer that. Try asking about trending coins, sustainability, or specific cryptocurrencies!"
 
 def main():
-    bot = CryptoAdvisor("CryptoMaster")
+    bot = Crypto("CryptoMaster")
     print(bot.welcome_message)
     
     while True:
