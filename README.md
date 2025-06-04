@@ -31,6 +31,12 @@ You can ask the bot questions like:
 
 To exit the chat, type "exit", "quit", or "bye".
 
+## Collborators
+ - Mercy Moraa
+ - Alex Mutuku
+ - Phoebe Chebet
+
+
 ## Data
 
 The bot currently uses a predefined dataset with information about:
@@ -39,6 +45,4 @@ The bot currently uses a predefined dataset with information about:
 - Cardano
 
 Each cryptocurrency has data about its price trend, market cap, energy use, and sustainability score.
-
-
 
